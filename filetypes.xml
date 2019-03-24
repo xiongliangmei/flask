@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="spring-redis" type="XML" />
+      <mapping pattern="log4j2" type="XML" />
     </extensionMap>
   </component>
 </application>
